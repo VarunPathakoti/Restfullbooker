@@ -5,7 +5,7 @@
     <classes>
       <class name="CreateToken">
         <methods>
-          <include name="getBooking"/>
+          <include name="partialpdateBooking"/>
         </methods>
       </class> <!-- CreateToken -->
     </classes>
